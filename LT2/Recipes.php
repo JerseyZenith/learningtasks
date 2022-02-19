@@ -4,6 +4,7 @@
 	<head><h1>Recipes</h1></head>
 		<ul>
 		<body>
+		<a href="index.php"><li>Home</li></a>
 		<a href="ChiliConCarne.html"><li>Chili Con Carne</li></a>
 		<a href="BeefInBeer.html"><li>Beef in Beer</li></a>
 		<a href="PadThaiChicken.html"><li>Pad Thai Chicken</li></a>
