@@ -1,0 +1,29 @@
+
+	body{
+	background-image: url(background.png);
+	background-position: center;
+	background-size: cover;
+}
+	#col{
+		width: auto;
+		height: 500px;
+		padding: 2px;
+		border: 0;
+}
+	#col div{
+		 width: 230px;
+		 height: 400px;
+		 margin: 10px;
+		 border: 2px solid Black;
+		 float: left;
+		 font-size: 17px;
+		 color:Black;
+}
+	#col div img {
+ 		 width: 100px;
+ 		 height: 100px;
+}
+	h1{
+	    color: Black;
+		}
+		
