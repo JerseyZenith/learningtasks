@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Poem </title>
+		<link rel="stylesheet" type="text/css" href="style.css"/>
+	</head>
+	<body>
+	<center>
+	<center>
+		<div class="container">
+			<div class="font1"> <b> I'm Busy </b> </div>
+			<div class="font2"> <i> by Brooke Hampton, Barefoot Five </i> </div>
+			<div class="font3"> But not in the way </div>
+			<div class="font3"> most people accept. </div>
+			<br>
+			<div class="font3"> I’m busy calming my fear </div>
+			<div class="font3"> and finding my courage. </div>
+			<br>
+			<div class="font3"> I’m busy listening to my kids. </div>
+			<br>
+			<div class="font3"> I’m busy getting in touch </div>
+			<div class="font3"> with what is real. </div>
+			<br>
+			<div class="font3"> I’m busy growing things and </div>
+			<div class="font3"> connecting with the natural world. </div>
+			<br>
+			<div class="font3"> I’m busy questioning my answers. </div>
+			<br>
+			<div class="font3"> I’m busy being present in my life. </div>
+		</div>
+	</body>
+</html>
