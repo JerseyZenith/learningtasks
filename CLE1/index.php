@@ -6,8 +6,8 @@
 echo "<nav class=\"navbar\">\n";
 echo "	 <ul class=\"link-group\">\n";
 echo "		<li class=\"link active\"><a href=\"index.php\">Home</a></li>\n";
-echo "		<li class=\"link\"><a href=\"Works.html\">Sample Works</a></li>\n";
-echo "		<li class=\"link\"><a href=\"Aboutme.html\">About Me</a></li>\n";
+echo "		<li class=\"link\"><a href=\"Works.php\">Sample Works</a></li>\n";
+echo "		<li class=\"link\"><a href=\"Aboutme.php\">About Me</a></li>\n";
 echo "	 </ul>\n";
 echo "	</nav>";
 ?>
